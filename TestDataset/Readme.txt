@@ -4,7 +4,7 @@ Contributors:
 Tiago Fonseca, Luis Lino Ferreira, Paulo Baltarejo Sousa, Jorge Landeck, Lurian Klein
 
 Description: 
-This dataset contains appliance-level energy consumption, their flexibility and OMIE prices for a day.
+This dataset contains appliance-level energy consumption, their flexibility. 
 User consumption flexibility is based on real-world data collected with the help of smart-energy meters for 50 different buildings. The testing data accounts for a total of 137 consumption FOs, in which 42 are fixed FOs corresponding to consumptions of computers and fridges, 71 are shiftable FOs characterizing the flexibility of appliances such as washing machines and dishwashers, and 24 are elastic FOs describing the flexibility of water heaters. 
 Regarding energy self-production FOs, three different test scenarios were studied. 
 3.	20% of the REC buildings have self-production; 
@@ -17,9 +17,6 @@ Regarding energy self-production FOs, three different test scenarios were studie
 # ------------
 
 The dataset files are organized as follows:
-
-OMIE prices
-	Files with the prices on a 15-minute basis of a day 
 
 Test Case Scenario # //Folders have the corresponding test case scenario data
 	InputCsv

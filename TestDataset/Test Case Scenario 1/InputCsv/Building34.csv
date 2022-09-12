@@ -1,0 +1,14 @@
+﻿User34;Community Supporter;Tatical;;;;;;;;;;;;
+<<Devices>>;;;;;;;;;;;;;;
+DeviceID;Name;Type;tMax;tMin;temperature;onlyStandby;hourlyTempDecreaseStandbyOff;hourlyTempIncreaseStandbyOn;hourlyTempChangeWaterdrawOff;hourlyTempChangeWaterdrawOn;sw1;ew1;sw2;ew2
+3401;Solar Panels;SolarPanel;;;;;;;;;;;;
+3402;Fridge;Fridge;;;;;;;;;;;;
+3403;Washing Machine;WetDevice;;;;;;;;;;;;
+<<FlexOffers/EnergyProfile>>;;;;;;;;;;;;;;
+DeviceID;FOName;ES;LS;FOType;Sequence Number;Energy;Normal Consumption Time;;;;;;;
+3403;Washing Machine FO;1/7/22 7:30;1/7/22 10:15;Shiftable;0;0,57;1/7/22 10:00;;;;;;;
+3403;Washing Machine FO;1/7/22 7:30;1/7/22 10:15;Shiftable;1;0,65;1/7/22 10:00;;;;;;;
+3403;Washing Machine FO;1/7/22 7:30;1/7/22 10:15;Shiftable;2;0,47;1/7/22 10:00;;;;;;;
+3403;Washing Machine FO;1/7/22 7:30;1/7/22 10:15;Shiftable;3;0,07;1/7/22 10:00;;;;;;;
+3403;Washing Machine FO;1/7/22 7:30;1/7/22 10:15;Shiftable;4;0,41;1/7/22 10:00;;;;;;;
+3403;Washing Machine FO;1/7/22 7:30;1/7/22 10:15;Shiftable;5;0,29;1/7/22 10:00;end;;;;;;

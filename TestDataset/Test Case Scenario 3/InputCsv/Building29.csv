@@ -1,0 +1,27 @@
+﻿User29;Community Supporter;Tatical;;;;;;
+<<Devices>>;;;;;;;;
+DeviceID;Name;Type;;;;;;
+2901;Solar Panels;SolarPanel;;;;;;
+2902;Fridge;Fridge;;;;;;
+2903;Washing Machine;WetDevice;;;;;;
+2904;Dishwasher;WetDevice;;;;;;
+2905;Dryer;WetDevice;;;;;;
+<<FlexOffers/EnergyProfile>>;;;;;;;;
+DeviceID;FOName;ES;LS;FOType;Sequence Number;Energy;Normal Consumption Time;
+2903;Washing Machine FO;1/7/22 16:45;1/7/22 21:45;Shiftable;0;0,12;1/7/22 17:15;
+2903;Washing Machine FO;1/7/22 16:45;1/7/22 21:45;Shiftable;1;0,05;1/7/22 17:15;
+2903;Washing Machine FO;1/7/22 16:45;1/7/22 21:45;Shiftable;2;0,6;1/7/22 17:15;
+2903;Washing Machine FO;1/7/22 16:45;1/7/22 21:45;Shiftable;3;0,28;1/7/22 17:15;
+2903;Washing Machine FO;1/7/22 16:45;1/7/22 21:45;Shiftable;4;0,12;1/7/22 17:15;end
+2904;Dishwasher;1/7/22 9:00;1/7/22 17:15;Shiftable;0;0,5;1/7/22 11:45;
+2904;Dishwasher;1/7/22 9:00;1/7/22 17:15;Shiftable;1;0,46;1/7/22 11:45;
+2904;Dishwasher;1/7/22 9:00;1/7/22 17:15;Shiftable;2;0,09;1/7/22 11:45;
+2904;Dishwasher;1/7/22 9:00;1/7/22 17:15;Shiftable;3;0,06;1/7/22 11:45;
+2904;Dishwasher;1/7/22 9:00;1/7/22 17:15;Shiftable;4;0,54;1/7/22 11:45;
+2904;Dishwasher;1/7/22 9:00;1/7/22 17:15;Shiftable;5;0,45;1/7/22 11:45;end
+2905;Dryer;1/7/22 17:00;1/7/22 22:15;Shiftable;0;0,71;1/7/22 22:15;
+2905;Dryer;1/7/22 17:00;1/7/22 22:15;Shiftable;1;0,69;1/7/22 22:15;
+2905;Dryer;1/7/22 17:00;1/7/22 22:15;Shiftable;2;0,29;1/7/22 22:15;
+2905;Dryer;1/7/22 17:00;1/7/22 22:15;Shiftable;3;0,82;1/7/22 22:15;
+2905;Dryer;1/7/22 17:00;1/7/22 22:15;Shiftable;4;0,48;1/7/22 22:15;
+2905;Dryer;1/7/22 17:00;1/7/22 22:15;Shiftable;5;0,07;1/7/22 22:15;end

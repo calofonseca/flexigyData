@@ -1,0 +1,14 @@
+﻿User32;Bold;Tatical;;;;;;;;;;;;
+<<Devices>>;;;;;;;;;;;;;;
+DeviceID;Name;Type;tMax;tMin;temperature;onlyStandby;hourlyTempDecreaseStandbyOff;hourlyTempIncreaseStandbyOn;hourlyTempChangeWaterdrawOff;hourlyTempChangeWaterdrawOn;sw1;ew1;sw2;ew2
+3201;Solar Panels;SolarPanel;;;;;;;;;;;;
+3202;Fridge;Fridge;;;;;;;;;;;;
+3203;Dishwasher;WetDevice;;;;;;;;;;;;
+<<FlexOffers/EnergyProfile>>;;;;;;;;;;;;;;
+DeviceID;FOName;ES;LS;FOType;Sequence Number;Energy;Normal Consumption Time;;;;;;;
+3203;Dishwasher;1/7/22 18:00;1/7/22 21:30;Shiftable;0;0,33;1/7/22 19:15;;;;;;;
+3203;Dishwasher;1/7/22 18:00;1/7/22 21:30;Shiftable;1;0,69;1/7/22 19:15;;;;;;;
+3203;Dishwasher;1/7/22 18:00;1/7/22 21:30;Shiftable;2;0,28;1/7/22 19:15;;;;;;;
+3203;Dishwasher;1/7/22 18:00;1/7/22 21:30;Shiftable;3;0,76;1/7/22 19:15;;;;;;;
+3203;Dishwasher;1/7/22 18:00;1/7/22 21:30;Shiftable;4;0,4;1/7/22 19:15;;;;;;;
+3203;Dishwasher;1/7/22 18:00;1/7/22 21:30;Shiftable;5;0,1;1/7/22 19:15;end;;;;;;

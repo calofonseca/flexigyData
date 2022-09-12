@@ -1,0 +1,19 @@
+﻿User7;Cautious;Tatical;;;;;;;;;;;;
+<<Devices>>;;;;;;;;;;;;;;
+DeviceID;Name;Type;tMax;tMin;temperature;onlyStandby;hourlyTempDecreaseStandbyOff;hourlyTempIncreaseStandbyOn;hourlyTempChangeWaterdrawOff;hourlyTempChangeWaterdrawOn;sw1;ew1;sw2;ew2
+701;Solar Panels;SolarPanel;;;;;;;;;;;;
+702;Fridge;Fridge;;;;;;;;;;;;
+703;Washing Machine;WetDevice;;;;;;;;;;;;
+704;Dishwasher;WetDevice;;;;;;;;;;;;
+<<FlexOffers/EnergyProfile>>;;;;;;;;;;;;;;
+DeviceID;FOName;ES;LS;FOType;Sequence Number;Energy;Normal Consumption Time;;;;;;;
+703;Washing Machine FO;1/7/22 10:00;1/7/22 17:00;Shiftable;0;0,1;1/7/22 12:30;;;;;;;
+703;Washing Machine FO;1/7/22 10:00;1/7/22 17:00;Shiftable;1;0,64;1/7/22 12:30;;;;;;;
+703;Washing Machine FO;1/7/22 10:00;1/7/22 17:00;Shiftable;2;0,51;1/7/22 12:30;;;;;;;
+703;Washing Machine FO;1/7/22 10:00;1/7/22 17:00;Shiftable;3;0,23;1/7/22 12:30;;;;;;;
+703;Washing Machine FO;1/7/22 10:00;1/7/22 17:00;Shiftable;4;0,08;1/7/22 12:30;;;;;;;
+703;Washing Machine FO;1/7/22 10:00;1/7/22 17:00;Shiftable;5;0,24;1/7/22 12:30;end;;;;;;
+704;Dishwasher;1/7/22 15:30;1/7/22 22:00;Shiftable;0;0,43;1/7/22 22:00;;;;;;;
+704;Dishwasher;1/7/22 15:30;1/7/22 22:00;Shiftable;1;0,28;1/7/22 22:00;;;;;;;
+704;Dishwasher;1/7/22 15:30;1/7/22 22:00;Shiftable;2;0,21;1/7/22 22:00;;;;;;;
+704;Dishwasher;1/7/22 15:30;1/7/22 22:00;Shiftable;3;0,59;1/7/22 22:00;end;;;;;;

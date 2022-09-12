@@ -1,0 +1,19 @@
+﻿User21;Cautious;Tatical;;;;;;;;;;;;
+<<Devices>>;;;;;;;;;;;;;;
+DeviceID;Name;Type;tMax;tMin;temperature;onlyStandby;hourlyTempDecreaseStandbyOff;hourlyTempIncreaseStandbyOn;hourlyTempChangeWaterdrawOff;hourlyTempChangeWaterdrawOn;sw1;ew1;sw2;ew2
+2101;Solar Panels;SolarPanel;;;;;;;;;;;;
+2102;Fridge;Fridge;;;;;;;;;;;;
+2103;Dryer;WetDevice;;;;;;;;;;;;
+2104;Dishwasher;WetDevice;;;;;;;;;;;;
+<<FlexOffers/EnergyProfile>>;;;;;;;;;;;;;;
+DeviceID;FOName;ES;LS;FOType;Sequence Number;Energy;Normal Consumption Time;;;;;;;
+2103;Dryer;1/7/22 8:00;1/7/22 17:00;Shiftable;0;0,22;1/7/22 12:30;;;;;;;
+2103;Dryer;1/7/22 8:00;1/7/22 17:00;Shiftable;1;0,46;1/7/22 12:30;;;;;;;
+2103;Dryer;1/7/22 8:00;1/7/22 17:00;Shiftable;2;0,27;1/7/22 12:30;;;;;;;
+2103;Dryer;1/7/22 8:00;1/7/22 17:00;Shiftable;3;0,12;1/7/22 12:30;;;;;;;
+2103;Dryer;1/7/22 8:00;1/7/22 17:00;Shiftable;4;0,51;1/7/22 12:30;end;;;;;;
+2104;Dishwasher;1/7/22 15:30;1/7/22 21:30;Shiftable;0;0,21;1/7/22 19:00;;;;;;;
+2104;Dishwasher;1/7/22 15:30;1/7/22 21:30;Shiftable;1;0,54;1/7/22 19:00;;;;;;;
+2104;Dishwasher;1/7/22 15:30;1/7/22 21:30;Shiftable;2;0,87;1/7/22 19:00;;;;;;;
+2104;Dishwasher;1/7/22 15:30;1/7/22 21:30;Shiftable;3;0,13;1/7/22 19:00;;;;;;;
+2104;Dishwasher;1/7/22 15:30;1/7/22 21:30;Shiftable;4;0,08;1/7/22 19:00;end;;;;;;

@@ -1,0 +1,12 @@
+﻿User13;Bold;Go-Ahead;;;;;;
+<<Devices>>;;;;;;;;
+DeviceID;Name;Type;;;;;;
+1301;Solar Panels;SolarPanel;;;;;;
+1303;Washing Machine;WetDevice;;;;;;
+<<FlexOffers/EnergyProfile>>;;;;;;;;
+DeviceID;FOName;ES;LS;FOType;Sequence Number;Energy;Normal Consumption Time;
+1303;Washing Machine FO;1/7/22 14:00;1/7/22 22:00;Shiftable;0;0,51;1/7/22 21:00;
+1303;Washing Machine FO;1/7/22 14:00;1/7/22 22:00;Shiftable;1;0,15;1/7/22 21:00;
+1303;Washing Machine FO;1/7/22 14:00;1/7/22 22:00;Shiftable;2;0,41;1/7/22 21:00;
+1303;Washing Machine FO;1/7/22 14:00;1/7/22 22:00;Shiftable;3;0,84;1/7/22 21:00;
+1303;Washing Machine FO;1/7/22 14:00;1/7/22 22:00;Shiftable;4;0,21;1/7/22 21:00;end
